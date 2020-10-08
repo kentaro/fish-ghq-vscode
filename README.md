@@ -1,16 +1,18 @@
 # fish-ghq-vscode
+
 Search and open a git repository as vscode project or a specified file of the repository by vscode.
 
 ## Install
+
 - install vscode cli
 - install ghq
-- install fzf
+- install peco
 - install fisher
 - install fish-ghq
 - then, install fish-ghq-vscode
 
 ```
-fisher add matsumotory/fish-ghq-vscode
+fisher add kentaro/fish-ghq-vscode
 ```
 
 ## Key bindings
@@ -21,4 +23,4 @@ fisher add matsumotory/fish-ghq-vscode
 
 ## License
 
-This project is under the MIT License.
+This project is forked and modified from [https://github.com/matsumotory/fish-ghq-vscode](https://github.com/matsumotory/fish-ghq-vscode) under the MIT License.
