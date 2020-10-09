@@ -25,4 +25,4 @@ fisher add kentaro/fish-ghq-vscode
 
 ## License
 
-This project is forked and modified from [https://github.com/matsumotory/fish-ghq-vscode](https://github.com/matsumotory/fish-ghq-vscode) under the MIT License.
+This project is forked and modified from [matsumotory/fish-ghq-vscode](https://github.com/matsumotory/fish-ghq-vscode) under the MIT License.
