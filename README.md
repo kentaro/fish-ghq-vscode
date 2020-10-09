@@ -2,6 +2,8 @@
 
 Search and open a git repository as vscode project or a specified file of the repository by vscode.
 
+**THIS PLUGIN IS OBSOLETE. TRY [matsumotory/fish-ghq-vscode](https://github.com/matsumotory/fish-ghq-vscode) INSTEAD。**
+
 ## Install
 
 - install vscode cli
